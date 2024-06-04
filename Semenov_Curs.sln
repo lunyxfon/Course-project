@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semenov_Curs", "Semenov_Curs.csproj", "{9106B472-C1C1-450D-88ED-818B00E688EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms", "Forms", "{4F85098C-45B2-4769-A04B-48172E029B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9106B472-C1C1-450D-88ED-818B00E688EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9106B472-C1C1-450D-88ED-818B00E688EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9106B472-C1C1-450D-88ED-818B00E688EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9106B472-C1C1-450D-88ED-818B00E688EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53742B8D-8AC6-462F-99EE-483CC9649974}
+	EndGlobalSection
+EndGlobal
